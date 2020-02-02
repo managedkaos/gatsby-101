@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `This is the Jump Off`,
-    description: `Starting with Gatsby 101`,
+    description: `Blogging with Gatsby 101`,
     author: `@managedkaos`,
     social: [
       {
