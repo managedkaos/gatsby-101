@@ -12,6 +12,20 @@ module.exports = {
         name: `GitHub`,
         url: `https://github.com/managedkaos`
       },
+    ],
+    menuLinks: [
+      {
+        name: `Home`,
+        link: `/`  
+      },
+      {
+        name: `About`,
+        link: `/about`  
+      },
+      {
+        name: `Page 2`,
+        link: `/page-2`  
+      },
     ]
   },
   plugins: [
